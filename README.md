@@ -17,7 +17,7 @@ Live Demo: [Demo Link](https://codepen.io/noirsociety/pen/ZEwLGXB)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/responsive-image-carousel.git
+   git clone https://github.com/abdul-1432/Responsive-Image-Carousel-Animation-
    ```
 
 2. Open `index.html` in your preferred browser.
